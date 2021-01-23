@@ -67,7 +67,7 @@ div{
     height: 232px;
 }
 
-.favicons img {
+.favicons img {-webkit-transition: width .3s ease-in-out; -moz-transition: width .3s ease-in-out; -o-transition: width .3s ease-in-out; transition: width .3s ease-in-out;
     width: 232px;
     height: 232px;
     text-align: center;
